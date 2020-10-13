@@ -1,0 +1,2 @@
+C:\Users\jnovak\source\repos\NUnit.Tests1\obj\Debug\NUnit.Tests1.csprojAssemblyReference.cache
+C:\Users\jnovak\source\repos\NUnit.Tests1\obj\Debug\NUnit.Tests1.csproj.CoreCompileInputs.cache
